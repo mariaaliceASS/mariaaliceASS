@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🐱‍💻 Sobre mim:
 
-<!--
-**mariaaliceASS/mariaaliceASS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🖥️ Estudante de Técnico em ADS <br/> 
+ 📚 Estudando Python e programação front e back END. <br/>
+ 💼 À procura de estágio <br/>
+ 🖍️ Inglês básico/intermediário (Em desenvolvimento)
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📍 GitHub Stats:
+
+  ![](https://github-readme-stats.vercel.app/api?username=mariaaliceASS&theme=radical&show_icons=true&hide_border=false&count_private=true) 
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=mariaaliceASS&theme=radical&hide_border=false) <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaliceASS&theme=radical&show_icons=true&hide_border=false&layout=compact)
