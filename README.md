@@ -1,7 +1,7 @@
 # 🐱‍💻 Sobre mim:
 
  🖥️ Estudante de Técnico em ADS <br/> 
- 📚 Estudando Python e programação front e back END. <br/>
+ 📚 Estudando HTML, CSS e programação front e back END. <br/>
  💼 À procura de estágio <br/>
  🖍️ Inglês básico/intermediário (Em desenvolvimento)
  
