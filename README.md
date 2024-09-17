@@ -3,7 +3,7 @@
  🖥️ Estudante de Técnico em ADS <br/> 
  📚 Estudando programação front e back END. <br/>
  💼 À procura de estágio <br/>
- 🖍️ Inglês básico/intermediário (Em desenvolvimento)
+ 🖍️ Intermediário (B1+)
  
 ### 🔗 Redes Sociais: 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaaliceas) 
