@@ -1,7 +1,7 @@
 # 🐱‍💻 Sobre mim:
 
- 🖥️ Estudante de Técnico em ADS <br/> 
- 📚 Estudando programação front e back END. <br/>
+ 🖥️ Técnica em Análise e Desenvolvimento de Sistemas <br/> 
+ 📚 Front-end e back-end <br/>
  💼 À procura de estágio <br/>
  🖍️ Intermediário (B1+)
  
