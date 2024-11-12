@@ -1,6 +1,6 @@
 # 🐱‍💻 Sobre mim:
 
- 🖥️ Técnica em Análise e Desenvolvimento de Sistemas <br/> 
+ 🖥️ Dev <br/> 
  📚 Front-end e back-end <br/>
  💼 À procura de estágio <br/>
  🖍️ Intermediário (B1+)
