@@ -1,15 +1,13 @@
-# 🐱‍💻 Sobre mim:
+# 🐱‍💻 About me:
 
- 🖥️ Dev <br/> 
- 📚 Front-end e back-end <br/>
- 💼 À procura de estágio <br/>
- 🖍️ Intermediário (B1+)
+ 🖥️Full-stack Developer <br/> 
+ 🖍️ Intermediate (B1+)
  
 ### 🔗 Redes Sociais: 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaaliceas) 
 
-# 🧩 Linguagens:
-  _Linguagens que domino e/ou estou aprendendo_
+# 🧩 Languages:
+  _Languages that i master and/or i'm learning_
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,11 +16,11 @@
  	![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   
-# 🗃️ Banco de Dados:
+# 🗃️ Database:
   ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 🛠️ Ferramentas:
+# 🛠️ Tools:
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
